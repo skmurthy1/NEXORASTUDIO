@@ -1,0 +1,6 @@
+{
+  "name": "Nexora Books",
+  "description": "Enterprise Indian GST Billing, Double-Entry Accounting & Statutory Compliance ERP Suite with Tally keyboard shortcuts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
